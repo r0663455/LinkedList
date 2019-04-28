@@ -13,5 +13,5 @@ class Node {
 
     private:
         int data;
-        Node * node;
+        Node * nextNode;
 };
